@@ -58,6 +58,7 @@ changelog - june 14, 2019
 --- Pinyata buff lasts for 15 seconds and is indicated by a golden star particle effects
 --- Pinyata buff also doubles the health and shield of said enemy
 --- Killing the enemy before the Pinyata buff expires grants various bonuses
+--- Different Pinyata bonuses stack independently (assuming you lucked out and spawned multiple pinyatas)
 
 - Pinyata Bonus Type(s) [More will be added in future updates]
 --- Barrage
@@ -74,6 +75,7 @@ changelog - june 14, 2019
 --- Fervor
 ------ Grants unlimitted mana for 14 seconds
 ------ 0.5 seconds "cooldown/double-click prevention" of skills that consume mana is removed while buff is active
+------ also gives 30% shield damage mitigation while buff is active (helps tank up because most mana-costing skills have a brief cast time)
 
 
 
