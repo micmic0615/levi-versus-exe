@@ -1,16 +1,99 @@
-changelog - june 29, 2019
+changelog - june 14, 2019
 
+- Rebind Controls
+--- Pistol -> Left Mouse | R1
+--- Shotgun -> Right Mouse | R2 [hold]
+--- Block -> "E" | L1
+--- Fireworks -> "Q" | L2 [hold]
+--- Heal -> "R" | Square or Triangle
+--- Dash -> "space" | Ex or Circle
+--- Sprint -> "space" [hold] | Ex or Circle [hold]
+--- Movement -> "wasd" | Left Stick
+--- Aim -> "shift" [hold] | Right Stick
 
-- System
---- Done with warp/next level system
---- Done with item/weapon pickup system
---- Added tutorial before arena
 
 
 - Combat Tweaks
---- Tweaked Parry
------- Parry now stops your dash instead of bouncing you away to the opposite of the parry angle
------- Parrying now restores bullets
+--- Tweaked how shooting and ammo works
+------ Pistol now doesn't cost any ammo (reduced shield damage to compensate, vitality damage stays the same)
+------ Shotgun now costs only 1 ammo and always fires 5 bullets that deal a lot of shield damage
+------ Block still costs 1. Improved the AoE but reduced the duration from 2 sec -> 1.5 sec
+------ Fireworks [new skill] -> costs 1 ammo, after channeling for a bit, fires homing bullets in all directions.  These bullets deal pure vitality damage but minimal shield damage
+------ Block and Fireworks are pretty much just placeholder spells (I just wanted to use all 4 shoulder buttons for spells)
+------ Ammo now only passively restores 7.5 seconds
+------ Each of the players 3 ammo units recharge independently (each requires 7.5 seconds, meaning you don't simply regenerate 1 ammo every 2.5 seconds)
 
---- Tweaked Sprint
------- Sprint penalty when hit is now just a slow instead of a mini-stun
+--- Tweaked how sprint works
+------ Buffed sprint bonus movespeed from 200% -> 250%
+------ Sprint no longer consumes your shield and now only freezes its regeneration
+------ You now take 200% vitality damage while sprinting
+------ Taking damage while sprinting also mini-stuns you for 0.5 seconds
+
+--- Tweaked Dash/Parry
+------ Parry detection now considers the bullet size of what you're parrying (essentially makes parrying of larger bullets easier)
+------ Parry now refreshes the dash cooldown
+------ Colliding with a bullet while dash-iframed now ensures that the dodged bullet won't hit you after iframe expires
+------ Improved parry-frames/dash-iframes from 9 -> 12
+------ Slightly improved dash distance
+
+--- Improved Frenzy
+------ Duration increased by 20%
+------ Attack speed bonus increased by 25%
+
+--- Changed Reload to Heal
+------ Fully heals yourself over 5 seconds, heals nearby allies for 20% max health over 5 seconds
+------ 1.25 seconds casting time
+------ Restores all ammo for self and all healed allies
+------ Grants 1 second invulnerability for self and all healed allies
+------ Can only be used once per life
+
+--- Tweaked Grit (sudden death prevention that brings life to 1 when taking lethal damage once per life)
+------ Grit no longer grants bonus damage when procced
+------ Grit now stuns all enemies in a massive area when procced
+
+
+
+- Pinyata [New Mechanic]
+--- Enemies (except for Bombers) now have a 17% chance to spawn with a pinyata buff
+--- Pinyata buff lasts for 15 seconds and is indicated by a golden star particle effects
+--- Pinyata buff also doubles the health and shield of said enemy
+--- Killing the enemy before the Pinyata buff expires grants various bonuses
+--- Different Pinyata bonuses stack independently (assuming you lucked out and spawned multiple pinyatas)
+
+- Pinyata Bonus Type(s) [More will be added in future updates]
+--- Barrage
+------ Grants automatic rapid fire of small bullets that deal 25% vitality damage and 10% shield damage
+------ Fires at 0.1 seconds interval
+------ Automatically fires at the nearest enemy (if no enemy is within barrage range, fires in random directions)
+------ lasts for 18 seconds
+
+--- Rage
+------ Doubles your damage output (applies to both vitality and shield damage)
+------ This used to be the grit effect
+------ lasts for 16 seconds
+
+--- Fervor
+------ Grants unlimitted mana for 14 seconds
+------ 0.5 seconds "cooldown/double-click prevention" of skills that consume mana is removed while buff is active
+------ also gives 30% shield damage mitigation while buff is active (helps tank up because most mana-costing skills have a brief cast time)
+
+
+
+- Beastiary
+--- Bomber
+------ Suicide bombers that deal significant pure vitality damage and enough shield damage to 1 hit stagger the player
+------ Effectively only has 1 shield value, so it is stunned even by the Pistol
+------ Beatdown autofire generally deals enough damage to kill them after they are stunned
+
+--- Lazer
+------ Tanky enemy that does rapid fire
+------ Deals a lot of vitality damage but minimal shield damage
+------ Bullets launched are unparryable
+
+
+
+- Misc
+--- Various spell effect/particle cleanups
+--- Indicated wave count in the bottom center
+--- Clearing a wave now makes the screen flash and briefly slows down the time for emphasis
+--- Firing unparryable bullets now displays a red exclamation point above the attacker's sprite (affects players and enemies)
