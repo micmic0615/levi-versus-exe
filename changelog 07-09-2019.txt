@@ -3,9 +3,11 @@ changelog - july 9, 2019
 
 
 - Combat Tweaks
---- Frenzy bonus attack speed reduced 125 -> 100
---- Finishing a wave gives a 25% chance to spawn a new weapon
---- Weapons can be consumed to increase either attack or defense
+--- Frenzy bonus attack speed increased 125 -> 150
+--- Frenzy bonus movespeed removed
+--- Frenzy bonus damage removed
+--- Finishing 2 waves spawns a random weapon
+--- Weapons can be used to change your attack or consumed to increase either attack or defense
 
 - New Weapons
 --- Pistol
