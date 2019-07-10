@@ -41,5 +41,17 @@ changelog - july 9, 2019
 ------ 1 mana cost
 
 --- Flash
------- Disables enemies around you in a wide radius. Consumes all mana.
+------ Consumes all mana to daze enemies in a huge radius.
+------ 1 mana cost
+
+--- Surprise
+------ Leave a bomb that disarms enemies.
+------ 1 mana cost
+
+--- Blizzard
+------ Create a cloud that slows and damages enemies.
+------ 1 mana cost
+
+--- Acid
+------ Create a cloud that damages enemy shields.
 ------ 1 mana cost
