@@ -8,6 +8,8 @@ changelog - july 9, 2019
 --- Frenzy bonus damage removed
 --- Finishing 2 waves spawns a random weapon
 --- Weapons can be used to change your attack or consumed to increase either attack or defense
+--- Pinyatas now drop potions
+--- Enemy stats (attack and defense) now scale with the wave number
 
 - New Weapons
 --- Pistol
