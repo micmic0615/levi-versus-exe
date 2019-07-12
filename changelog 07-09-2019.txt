@@ -28,6 +28,14 @@ changelog - july 9, 2019
 ------ Fires a charged bullet every 4th shot.
 ------ No mana cost
 
+--- Chain
+------ Fires a bullet that will electrecute adjacent enemies on impact.
+------ No mana cost
+
+--- Snipe
+------ Long ranged shot that can't fire if there are enemies nearby.
+------ No mana cost
+
 --- Shotgun
 ------ Multi-shot that deals a ton of SHIELD damage.
 ------ 1 mana cost
@@ -58,4 +66,12 @@ changelog - july 9, 2019
 
 --- Acid
 ------ Create a cloud that damages enemy shields.
+------ 1 mana cost
+
+--- Vampirism
+------ Consumes all shield and mana to steal enemy vitality.
+------ 1 mana cost
+
+--- Storm
+------ Create a cloud that zaps a random enemy within its effect.
 ------ 1 mana cost
