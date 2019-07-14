@@ -1,0 +1,43 @@
+changelog - july 14, 2019
+
+
+
+- Combat Tweaks
+--- Improved UI to display more
+--- Auto target now selects the enemy closest to the mouse instead of closest to your location
+--- Mana now regenerates after 9 seconds (used to be 7.5)
+--- Shotgun/Cannon/Blink now reimburses used mana on condition
+--- Tweaked ATK and DEF scaling numbers (you generally get more effectiveness from them, making the game a bit easier)
+
+- Weapon balance changes:
+
+--- Slash
+------ Melee attacks now get slight damage scaling from defense
+
+--- Chain
+------ Buffed damage
+------ Increased slow duration 0.3 -> 0.65
+------ Increased chain count 2 -> 3
+------ Increased projectile speed 1000 -> 1200
+------ Reduced range 900 -> 800
+
+--- Snipe
+------ Reduced dud fire range 720 -> 540
+------ Now displays disarm indicator if dud was fired
+------ Now applies a slow (similar to chain lightning but for less duration)
+
+--- Shotgun
+------ Now reimburses used mana if all 5 bullets hit the same target
+
+--- Cannon
+------ Now reimburses used mana if you hit at least 3 enemies
+------ Now has zero tracking (this makes it easier to use with the tweaked auto target mechanic)
+------ Improved knockback 30 -> 240
+------ Now applies a slow (similar to chain lightning but for less duration)
+
+--- Blink
+------ Now reimburses used mana if teleport stun/damage hits 2 or more enemies
+
+--- Surprise
+------ Reduced disarm effect 3.5 -> 3
+------ Reduced damage multiplier 1.25 -> 1
