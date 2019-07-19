@@ -1,0 +1,78 @@
+changelog - july 20, 2019
+
+- World Tweaks
+--- Gold system implemented
+------ Gold can be used to buy healing/potion charges and weapons/stats
+------ Gold is gained by killing enemies
+------ All gold is lost upon death
+
+--- Arenas and Sanctuaries
+------ Arenas are now short rooms of 3-4 waves only
+------ Finishing an arena spawns 2 portals, one leads to the next arena, the other leads to a sanctuary
+------ Sanctuaries are safe rooms with shops where you can spend your gold
+------ Skipping the sanctuary makes you get 25% more gold on the next arena
+
+--- Added placeholder background sprites for ease of asset swap in the future (since parallax coding is done)
+
+=====================================
+
+- Combat Tweaks
+
+--- Streamlined debuff effects to Disarm, Shock, Frost, Dazed & Impact (more debuffs to come)
+------ Disarm prevents enemies from attacking
+------ Shock slows both movespeed and attack speed and is (caused by lightning based attacks)
+------ Frosted slightly slows movespeed and attackspeed and also makes the affected target take more damage (caused by ice based attacks)
+------ Impact greatly slows movespeed (normally caused by attacks that push/pull enemies)
+------ Dazed prevents the target from doing anything similar to beatdown stun/stagger 
+------ Afflicting the same enemy with the same debuff repeatedly reduces its effectiveness (in terms of duration) until it is resisted completely
+
+--- Added healing 
+------ 3 charges that heal 75% health per pop
+------ Refilled by the shop in Sanctuaries that sell healing
+
+--- Added tiles
+
+--- Temporarily disabled Pinyatas
+
+=====================================
+
+- Beastiary
+
+--- Saber
+------ Nerfed shield damage
+------ Reduced dash-attack movespeed (400 -> 350)
+------ Reduced dash-attack range (1400 -> 1200)
+------ Dash-attack hitbox no longer lingers
+
+=====================================
+
+- Weapon balance changes:
+
+--- Pistol
+------ Reduced range slightly
+
+--- Slash
+------ Melee attacks can now pass through tiles
+
+--- Ping
+------ Reduced range slightly
+
+--- Snipe
+------ Reduced dud fire range 540 -> 400
+------ Now applies Impact
+
+--- Cannon
+------ Can pass through walls
+------ Now applies Impact
+
+--- Vacuum
+------ Now applies Impact
+
+--- Blizzard
+------ Now applies Frost
+
+--- Flash
+------ Temporarily disabled from item pool
+
+--- Vampirism
+------ Temporarily disabled from item pool
