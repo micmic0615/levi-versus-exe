@@ -22,9 +22,10 @@ changelog - july 20, 2019
 ------ Disarm prevents enemies from attacking
 ------ Shock slows both movespeed and attack speed and is (caused by lightning based attacks)
 ------ Frosted slightly slows movespeed and attackspeed and also makes the affected target take more damage (caused by ice based attacks)
------- Impact greatly slows movespeed (normally caused by attacks that push/pull enemies)
+------ Impact greatly slows movespeed and deals bonus damage when the enemy hits a wall (normally caused by attacks that push enemies) 
 ------ Dazed prevents the target from doing anything similar to beatdown stun/stagger 
------- Afflicting the same enemy with the same debuff repeatedly reduces its effectiveness (in terms of duration) until it is resisted completely
+
+--- Afflicting the same enemy with the same debuff repeatedly reduces its effectiveness (in terms of duration) until it is resisted completely
 
 --- Added healing 
 ------ 3 charges that heal 75% health per pop
@@ -33,6 +34,8 @@ changelog - july 20, 2019
 --- Added tiles
 
 --- Temporarily disabled Pinyatas
+
+--- Adjusted camera to make it have a constant zoom (camera used to show the entire room so zoom is dependent on room size)
 
 =====================================
 
@@ -47,6 +50,12 @@ changelog - july 20, 2019
 =====================================
 
 - Weapon balance changes:
+
+--- Push [New]
+------ Melee attack that pushes enemies away, if enemy hits a wall, deals bonus damage (Applies Impact)
+
+--- Reaver [New]
+------ Melee attack that is more effective when surrounded by 2 or more enemies
 
 --- Pistol
 ------ Reduced range slightly
@@ -66,13 +75,8 @@ changelog - july 20, 2019
 ------ Now applies Impact
 
 --- Vacuum
------- Now applies Impact
+------ Now applies Frost
 
 --- Blizzard
 ------ Now applies Frost
 
---- Flash
------- Temporarily disabled from item pool
-
---- Vampirism
------- Temporarily disabled from item pool
