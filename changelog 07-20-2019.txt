@@ -11,6 +11,7 @@ changelog - july 20, 2019
 ------ Finishing an arena spawns 2 portals, one leads to the next arena, the other leads to a sanctuary
 ------ Sanctuaries are safe rooms with shops where you can spend your gold
 ------ Skipping the sanctuary makes you get 25% more gold on the next arena
+------ Arenas now have gift boxes with various challenges.  Doing the challenge will spawn a random weapon after the wave is cleared
 
 --- Added placeholder background sprites for ease of asset swap in the future (since parallax coding is done)
 
