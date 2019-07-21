@@ -38,6 +38,8 @@ changelog - july 20, 2019
 
 --- Adjusted camera to make it have a constant zoom (camera used to show the entire room so zoom is dependent on room size)
 
+--- You can now swap up your weapon slots by dragging them to each other in the HUD 
+
 =====================================
 
 - Beastiary
