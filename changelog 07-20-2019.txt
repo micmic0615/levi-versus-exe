@@ -21,10 +21,10 @@ changelog - july 20, 2019
 
 --- Streamlined debuff effects to Disarm, Shock, Frost, Dazed & Impact (more debuffs to come)
 ------ Disarm prevents enemies from attacking
------- Shock slows both movespeed and attack speed and is (caused by lightning based attacks)
+------ Shock slows both movespeed and attack speed (caused by lightning based attacks)
 ------ Frosted slightly slows movespeed and attackspeed and also makes the affected target take more damage (caused by ice based attacks)
 ------ Impact greatly slows movespeed and deals bonus damage when the enemy hits a wall (normally caused by attacks that push enemies) 
------- Dazed prevents the target from doing anything similar to beatdown stun/stagger 
+------ Dazed prevents the target from doing anything similar to stagger 
 
 --- Afflicting the same enemy with the same debuff repeatedly reduces its effectiveness (in terms of duration) until it is resisted completely
 
