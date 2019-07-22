@@ -32,7 +32,7 @@ changelog - july 20, 2019
 ------ 3 charges that heal 75% health per pop
 ------ Refilled by the shop in Sanctuaries that sell healing
 
---- Added tiles
+--- Added tiles/walls
 
 --- Temporarily disabled Pinyatas
 
@@ -43,12 +43,21 @@ changelog - july 20, 2019
 =====================================
 
 - Beastiary
+--- Shooter (basic enemy that shoots red balls)
+------ Reduced attack aquisition range (it will need to approach you more before it can attack)
+------ Needs to be visible/inside the screen for at least 1 second before it can attack
 
---- Saber
+--- Saber (knight enemy that charges at you)
 ------ Nerfed shield damage
 ------ Reduced dash-attack movespeed (400 -> 350)
 ------ Reduced dash-attack range (1400 -> 1200)
 ------ Dash-attack hitbox no longer lingers
+------ Reduced attack aquisition range
+------ Needs to be visible/inside the screen for at least 1 second before it can attack
+
+--- Lazer (large, tanky enemy that continuously shoots fire at you)
+------ Reduced attack aquisition range (it will need to approach you more before it can attack)
+------ Needs to be visible/inside the screen for at least 1 second before it can attack
 
 =====================================
 
