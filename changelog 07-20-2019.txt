@@ -7,7 +7,7 @@ changelog - july 20, 2019
 ------ All gold is lost upon death
 
 --- Arenas and Sanctuaries
------- Arenas are now short rooms of 3-4 waves only
+------ Arenas are now short rooms of 2-4 waves only
 ------ Finishing an arena spawns 2 portals, one leads to the next arena, the other leads to a sanctuary
 ------ Sanctuaries are safe rooms with shops where you can spend your gold
 ------ Skipping the sanctuary makes you get 25% more gold on the next arena
@@ -32,13 +32,9 @@ changelog - july 20, 2019
 ------ 3 charges that heal 75% health per pop
 ------ Refilled by the shop in Sanctuaries that sell healing
 
---- Added tiles/walls
-
 --- Temporarily disabled Pinyatas
 
---- Adjusted camera to make it have a constant zoom (camera used to show the entire room so zoom is dependent on room size)
-
---- You can now swap up your weapon slots by dragging them to each other in the HUD 
+--- Added challenge gift boxes that will spawn a random weapon when the arena is cleared if their conditions were fulfilled 
 
 =====================================
 
@@ -91,4 +87,12 @@ changelog - july 20, 2019
 
 --- Blizzard
 ------ Now applies Frost
+
+=====================================
+
+- Misc
+--- Added tiles/walls
+--- Adjusted camera to make it have a constant zoom (camera used to show the entire room so zoom is dependent on room size)
+--- You can now swap up your weapon slots by dragging them to each other in the HUD 
+--- Weapons that you currently equip are now blacklisted from the drop pool
 
