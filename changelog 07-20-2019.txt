@@ -19,12 +19,13 @@ changelog - july 20, 2019
 
 - Combat Tweaks
 
---- Streamlined debuff effects to Disarm, Shock, Frost, Dazed & Impact (more debuffs to come)
+--- Streamlined debuff effects to Disarm, Shock, Frost, Dazed, Impact & Poison (more debuffs to come)
 ------ Disarm prevents enemies from attacking
 ------ Shock slows both movespeed and attack speed (caused by lightning based attacks)
 ------ Frosted slightly slows movespeed and attackspeed and also makes the affected target take more damage (caused by ice based attacks)
 ------ Impact greatly slows movespeed and deals bonus damage when the enemy hits a wall (normally caused by attacks that push enemies) 
 ------ Dazed prevents the target from doing anything similar to stagger 
+------ Poison will always deal 4% max Vitality every second and also applies a slight slow to both movespeed and attackspeed
 
 --- Afflicting the same enemy with the same debuff repeatedly reduces its effectiveness (in terms of duration) until it is resisted completely
 
@@ -65,28 +66,20 @@ changelog - july 20, 2019
 --- Reaver [New]
 ------ Melee attack that is more effective when surrounded by 2 or more enemies
 
---- Pistol
------- Reduced range slightly
+--- Mine [New]
+------ Place a mine on the ground
+------ Each active mine on the field makes placing the next mine slower
+------ Synergizes with Push (mine will be pushed and detonate shortly)
+------ Synergizes with Vacuum (mine will be pulled by the vacuum alone with enemies)
 
---- Slash
------- Melee attacks can now pass through tiles
+--- Dart [New]
+------ Single target arrow/bullet that deals poison
+------ Having a low attack stat increases the chance of the enemy resisting poison
 
---- Ping
------- Reduced range slightly
-
---- Snipe
------- Reduced dud fire range 540 -> 400
------- Now applies Impact
-
---- Cannon
------- Can pass through walls
------- Now applies Impact
-
---- Vacuum
------- Now applies Frost
-
---- Blizzard
------- Now applies Frost
+--- Adjusted all current weapons for balancing
+------ Improved damage/effectiveness of most mana-costing spells
+------ Added synergies such as Vacuum being able to pull cloud-based spells (Blizzard, Acid, Storm)
+------ Added a more detailed description of each weapon
 
 =====================================
 
