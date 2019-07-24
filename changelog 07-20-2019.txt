@@ -74,7 +74,18 @@ changelog - july 20, 2019
 
 --- Dart [New]
 ------ Single target arrow/bullet that deals poison
------- Having a low attack stat increases the chance of the enemy resisting poison
+
+--- Shock [New]
+------ After charging for a moment, shocks the enemy with THUNDER!!!
+
+--- Splinter [New]
+------ Fires a ball of ice that splinters to two shards upon impact.
+
+--- Bond [New]
+------ Links up to 5 enemies, damaging one of them will then also damage the rest.
+
+--- Cull [New]
+------ Consume all mana to damage all enemies with debuffs.
 
 --- Adjusted all current weapons for balancing
 ------ Improved damage/effectiveness of most mana-costing spells
