@@ -24,3 +24,8 @@ changelog - august 17, 2019
 ------ Skills: shop that allows you to buy random weapon/spells
 
 --- Slight tweaks to how Tachyons moved
+
+--- Basic game saving implemented
+------ Tachyon upgrades are automatically saved and will already be available if you re-open the game
+------ Flags such as "tutorial cleared" are also saved
+------ Save data version is built, so we can force users to delete their save files and start over in case the save data structure becomes incompatible with future updates
