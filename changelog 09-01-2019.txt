@@ -1,4 +1,4 @@
-changelog - august 17, 2019
+changelog - september 1, 2019
 
 --- Completed Tachyon purchase system
 ------ Some weapons are now locked behind the tachyon shop

@@ -1,0 +1,9 @@
+changelog - september 3, 2019
+
+--- Added 3 new enemy types
+------ Seeker: Butterfly enemy that fires homing bullets
+------ Chaser: Lightning enchanted enemy that chases the player (upon contact, the player is shocked and slowed)
+------ Ninja: Enemy that teleports to the player and cloaks itself before attacking
+
+--- Expanded level count from 4 -> 8
+------ Last level is just a 1 wave arena that contains a beefy version of all enemies because it is just a placeholder for a bossfight
