@@ -7,3 +7,17 @@ changelog - september 3, 2019
 
 --- Expanded level count from 4 -> 8
 ------ Last level is just a 1 wave arena that contains a beefy version of all enemies because it is just a placeholder for a bossfight
+
+--- Weapon Balancing
+------ Firing a Snipe dud will now push you away, increasing your distance to the nearest unit
+------ Push now only pushes in 45 degree angle, making it easier to control
+------ Various numerical/damage/range value tweaks, particularly on the 12 starting skills
+
+--- Stat balancing
+------ Increased the Vitality/Shield you get per point of Neutron
+------ Protons will now only give minor Vitality bonuses (used to give minor Vit/Shield bonus)
+------ Electrons will now only give minor Shield bonuses (used to give minor Vit/Shield bonus)
+------ Buffed minor damage/defense bonuses from equipping/selling weapons
+
+--- Sanctuary skip bonus changed from awarding bonus gold to awarding bonus tachyons
+--- Some levels will allow you to skip sanctuaries while other levels have a guaranteed health refill room
