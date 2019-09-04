@@ -1,0 +1,10 @@
+changelog - september 5, 2019
+
+--- Fixed button hitbox fuckup bug in full screen
+
+--- Removed broken line drawing function because it was stupidly unoptimized
+
+--- Optimized particle type Trails (This particle type is mainly used by tachyons)
+------ Determined possible optimization solution to particle type Mirage (these are the after image particle effects)
+
+--- A couple of refactors in preparation for the weapon-level-dps systen
