@@ -7,7 +7,7 @@ changelog - october 26, 2019
 ------------------
 
 --- Tweaked how enemies get tachyons
------- Enemies can only get up to 5 tachyons
+------ Enemies can only get up to 3 tachyons
 ------ Enemies can only get tachyons if they are inside the screen
 ------ Enemies can only get tachyons that are inside the screen
 ------ There is now a slight cooldown period after getting a tachyon where the enemy cannot get any tachyons (unless it's specific ai behavior dictates that it interact with tachyons)
@@ -17,6 +17,10 @@ changelog - october 26, 2019
 ------ Elite enemies appear bigger and normally have 2.5x the vitality, 2x the poise and 1.5x the damage for their level
 ------ Elite enemies also have slightly tweaked moveset
 ------ Enemies that get their 3rd tachyon become elites and are fully healed
+------ Elite enemies have a 50% chance to resist interrupts
+--------- Interrupts are the "mini-stuns" that reset (or interrupt) the enemy's attack animation even without breaking their shields
+--------- Interrupting abilities include: PUSH (wall-hit), SNIPE (wall-hit), MINE (explosion), CANNON (wall-hit), VACUUM, BLINK, STORM (cloud zaps), CULL, BOND (on-cast)
+--------- SURPRISE (disarm) and FLASH (stun) bypasses that resistance and will ALWAYS interrupt
 
 --- Shooter elite variations:
 ------ Has 6 bullets instead of 3
