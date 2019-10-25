@@ -1,0 +1,59 @@
+changelog - october 26, 2019
+
+--- Proper pathfinding ai implemented
+------ Enemies can now navigate through a maze to find the player
+------ Main pathfinding algorithm used is A*
+
+------------------
+
+--- Tweaked how enemies get tachyons
+------ Enemies can only get up to 5 tachyons
+------ Enemies can only get tachyons if they are inside the screen
+------ Enemies can only get tachyons that are inside the screen
+------ There is now a slight cooldown period after getting a tachyon where the enemy cannot get any tachyons (unless it's specific ai behavior dictates that it interact with tachyons)
+------ Made the animation of enemies getting a tachyon more noticeable
+
+--- Added elite enemies
+------ Elite enemies appear bigger and normally have 2.5x the vitality, 2x the poise and 1.5x the damage for their level
+------ Elite enemies also have slightly tweaked moveset
+------ Enemies that get their 3rd tachyon become elites and are fully healed
+
+--- Shooter elite variations:
+------ Has 6 bullets instead of 3
+------ After the first bullet, the next bullets are launched in rapid succession
+------ bullets explode on impact/expiration
+------ bullets are smaller and faster
+
+--- Wasp elite variations:
+------ after the initial chase-to-shotgun attack, it quickly combos into a second chase-to-shotgun attack
+------ this second attack is a lot faster than the 1st
+------ the shotgun bullets explode on impact/expiration
+
+--- Saber elite variation:
+------ Can change directions twice (note that it may look like a multi-dash combo but it is in fact just a single dash-attack, meaning if you get hit on the "first" dash, you are not gonna be hit by the "second" and "third" dashes)
+
+--- Stunner elite variations:
+------ has a sonar that extends the vacuum range at a rotating angle
+------ being caught by the sonar does not make the elite stunner fire its attack, but it pulls the player and applies shock, attempting to pull it further in to its attack range.
+
+--- Lazer elite variations:
+------ Triple shot
+
+--- Chaser elite variations:
+------ chaser elites will will now explode at the end of their lightning-chase-attack
+------ this explosion deals pure vitality damage but no flinch damage
+------ explosion also stuns for 1 second and shocks for 2 seconds
+
+--- Seeker elite variations:
+------ homing bullets jitter, making them a bit more unpredictable
+------ seeker elites get passive "invisibility", disabling auto-targeting
+--------- invisibility is dispelled whenever seeker elites charge up their attacks
+--------- invisibility is dispelled for a few seconds whenever seeker elites are damaged (either by parrying their bullets or just manually aiming your guns and hitting them)
+
+------------------
+
+--- Bomber
+------- this unit has no elite variation (no point in making a suicide bomber that dies in 1 hit an elite)
+
+--- Ninja
+------ Removed this unit for now, lol.  I think its ai behavior is shit and kinda gimicky. 
