@@ -1,0 +1,15 @@
+changelog - november 03, 2019
+
+--- Updated UI to reflect latest PSD
+------ Tweaked how mana is presented instead of following the PSD
+
+--- Minor adjustments to spells and weapons
+------ Mostly cooldown tweaks 
+------ Special mention: PUSH now has a cooldown but is able to parry
+------ Special mention: PUSH now has a cooldown
+------ Special mention: PUSHED enemies can now collide with other enemies and deal damage
+------ Special mention: improved CHAIN range/bullet speed, lightning seek range and shock duration
+------ Special mention: CHAIN secondary targets now receive pure damage
+------ Special mention: CHAIN now has a cooldown
+
+--- Minor adjustments to enemy behaviors, hitboxes, stats, etc.
