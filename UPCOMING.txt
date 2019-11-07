@@ -1,0 +1,17 @@
+UPCOMING CHANGES:
+
+--- Reworked Frenzy
+------ Instead of triggering Frenzy (+100% atk speed bonus) for 1.5 seconds on kill and 0.5 seconds whenever hitting a staggered enemy, Frenzy is now triggered for 3 seconds whenever getting a tachyon.
+
+--- Adjusted Beatdown damage to scale from both Vit and Shield damage
+------ It used to scale 100% from vit damage, now it scales 80% from vit damage and 20% from shield damage
+
+--- A variation of Beatdown now triggers whenever the player uses a spell (any skill that costs mana)
+------ This beatdown automatically selects all currently staggered enemies and fires a cluster of bullets to them
+------ The damage of these bullets scale 20% from vit damage and 80% from shield damage
+------ This new mechanic, along with the adjustments to frenzy, are attempts to make Electron builds viable
+
+--- Adjustments on weapon/spell damages and attribute scalings
+--- Adjustments on enemy scaling
+
+--- New Boss enemy in development
