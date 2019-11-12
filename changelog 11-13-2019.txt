@@ -11,7 +11,17 @@ UPCOMING CHANGES:
 ------ The damage of these bullets scale 20% from vit damage and 80% from shield damage
 ------ This new mechanic, along with the adjustments to frenzy, are attempts to make Electron builds viable
 
+--- Tweaked how parry damage is computed
+------ Before, the Vit Damage of the parry will use your vit Damage while the parry's shield damage uses your shield damage
+------ Now, the parry damage uses your higher attack stat and scales both the vit and shield damage from that higher attack stat.
+------ This essentially rewards players who invest most of their level-up bonuses in just a single offense stat (high damage, low defense build)
+
 --- Adjustments on weapon/spell damages and attribute scalings
 --- Adjustments on enemy scaling
 
---- New Boss enemy in development
+--- New Boss: Scarlet Shadow, Nul (uses megaman zero sprite)
+------ This boss is located in the last (8th) stage and is level 25.
+------ Available in demo/sandbox mode as a level 1 enemy.
+------ this boss has 3 phases
+--------- each phase unlocks 1-2 augmentations to the boss' attacks
+--------- each phase reduces the cooldowns of the boss' skills (resulting in higher aggression)
