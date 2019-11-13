@@ -1,4 +1,4 @@
-UPCOMING CHANGES:
+changelog - november 13, 2019
 
 --- Reworked Frenzy
 ------ Instead of triggering Frenzy (+100% atk speed bonus) for 1.5 seconds on kill and 0.5 seconds whenever hitting a staggered enemy, Frenzy is now triggered for 3 seconds whenever getting a tachyon.
