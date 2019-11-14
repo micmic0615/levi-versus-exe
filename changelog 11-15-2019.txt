@@ -1,0 +1,7 @@
+changelog - november 15, 2019
+
+--- Implemented partial controller support
+------ You can now plug and use controllers for movement, however, you will need to use the mouse to interact with the UI
+
+--- Remade Weapon pickup UI to enable the player to compare picked-up skills better
+--- Minor tweaks to skills
