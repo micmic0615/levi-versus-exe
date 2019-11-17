@@ -8,7 +8,7 @@ changelog - november 17, 2019
 --- REWARD LIST:
 ------ FREE WEAPON: get one random weapon
 ------ FREE SPELL: get one random spell
------- CURSED QUARK: get one level-up quark, but the enemies in the next room will be stronger
+------ FREE BLESSING TACHYON: get +100% more tachyons on the next room. 
 ------ FREE HEALING POTION: get one free potion that will restore 50% of your vit.
 
 ------ BUY HEALING POTION: potion that will fully restore your vit. and flask charges. Costs gold based on level.
@@ -19,7 +19,8 @@ changelog - november 17, 2019
 ------ BUY BLESSING ATTACK: get +30% attack on the next room. Costs gold based on level.
 ------ BUY BLESSING DEFENSE: receive 30% less damage on the next room. Costs gold based on level.
 ------ BUY BLESSING OMNI: get +20% attack and receive 20% less damage on the next room . Costs gold based on level.
------- BUY BLESSING TACHYON: get +100% more tachyons on the next room. Costs gold based on level.
+------ BUY CURSED QUARK: buy one level-up quark, but the enemies in the next room will be stronger. Costs gold based on level.
+
 
 --- Rebalanced Gold costs and gain across the board.
 
