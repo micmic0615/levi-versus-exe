@@ -1,0 +1,12 @@
+changelog - december 9, 2019
+
+--- Open screen size/resolution adjustment menu by pressing ESC
+
+
+--- Put Nul boss in the fourth room
+------ stats/level adjusted (from level 25 -> level 10)
+------ tweaked Nul phase 3 bombers to use the same sprite as Nul
+------ Tweaked Quark placement to give one more quark before the fourth room
+
+--- Put an unfinished boss in the last room
+------ Boss has super basic AI for now
