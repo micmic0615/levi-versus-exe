@@ -1,0 +1,12 @@
+changelog - december 12, 2019
+
+--- Added new enemy type "Roller"
+------ Suicide type enemy that doesn't have an elite equivalent like the "Bomber"
+
+--- Weapon/spell tweaks
+------ minor damage adjustments to some weapons
+------ zero-cast time spells no longer interrupt (this means that they can be performed while casting/channeling a different weapon/spell)
+
+--- Adjusted enemy spawns across the board
+
+--- Added more skills to Unfinised Second Boss
