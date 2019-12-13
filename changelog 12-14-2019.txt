@@ -1,0 +1,27 @@
+changelog - december 14, 2019
+
+--- New Buff-Type/Mechanic - CURSE
+------ Afflicted units are slowed for 2 seconds
+------ When the debuff expires naturally (curse debuff is not dispelled), the afflicted unit is stunned and is dealt pure vitality damage by the afflicter
+------ If the afflicted unit is in an iframe state (dodge invulerability) when the debuff expires, CURSE is reflected, causing the afflicter to take the stun and damage instead
+------ If the afflicted unit is in an immortal state (basic invulnerability)  when the debuff expires, the CURSE is simply dispelled and nothing happens
+
+--- New enemy type - Virus
+------ Enemy that Fires an explosion spell that head to their targeted area regardless of terrain
+------ Explodes upon reaching its target area and applies CURSE to all players hit
+------ Elite version has a bigger radius on its explosion spell
+------ Elite version also has double the mana capacity and double the mana regeneration, allowing it to attack more frequently
+
+--- Unfinished Second Boss also uses the CURSE mechanic on its dash-attack.
+
+--- Major Adjustments to enemy spawn
+------ Normal enemies no longer respawn, only the one-hit enemy types (Bomber/Roller) continuously respawn in the middle of the wave
+------ Shooter, Wasp, Bomber and Lazer are now exclusive to the 1st biome
+------ Stunner, Chaser, Roller and Virus are now exclusive to the 2nd biome
+------ Saber and Seeker appear on both biomes.
+
+--- Various adjustments to weapons/spells
+------ Multiple blizzards now cannot damage the same enemy, radius now scales with shield attack
+------ Blink now deals normal vitality damage, stun duration now scales with vitality attack
+------ Vacuum damage now scales with vitality attack, radius still scales with shield attack
+------ Minor value tweaks to damage values
