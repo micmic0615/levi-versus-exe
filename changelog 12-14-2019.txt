@@ -23,6 +23,7 @@ changelog - december 14, 2019
 --- Various adjustments to weapons/spells
 ------ Multiple blizzards now cannot damage the same enemy, radius now scales with shield attack
 ------ Blink now deals normal vitality damage, stun duration now scales with vitality attack
+------ Blink can now be manually aimed
 ------ Vacuum damage now scales with vitality attack, radius still scales with shield attack
 ------ Vacuum now travels farther when aimed manually, explosion delay also increased
 ------ Snipe now travels slower when aimed manually, dud radius is now also significantly smaller when aimed manually
