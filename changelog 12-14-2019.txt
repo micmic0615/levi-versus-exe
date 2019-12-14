@@ -24,4 +24,15 @@ changelog - december 14, 2019
 ------ Multiple blizzards now cannot damage the same enemy, radius now scales with shield attack
 ------ Blink now deals normal vitality damage, stun duration now scales with vitality attack
 ------ Vacuum damage now scales with vitality attack, radius still scales with shield attack
------- Minor value tweaks to damage values
+------ Vacuum now travels farther when aimed manually, explosion delay also increased
+------ Snipe now travels slower when aimed manually, dud radius is now also significantly smaller when aimed manually
+------ Acid and Storm clouds now move faster
+------ Pistol, Overload, Snipe, Cannon, Vacuum, Acid and Storm can now be steered when aimed manually, ranges and bullet speeds for these skills have been tweaked when aimed manually
+------ Minor tweaks to damage values
+
+--- Added checkpoint system
+------ Defeating the 1st boss will now unlock a checkpoint, saving your current stats and making you go directly to the 2nd biome when you die
+------ Unlocks the rewind potion in the 1st rest area, using this will reset all your stats to 1 and allow you to go back to the 1st biome
+------ Defeating the 1st boss again will override the saved stats
+------ Checkpoints do not save any potion bonuses
+
