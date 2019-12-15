@@ -12,7 +12,7 @@ changelog - december 14, 2019
 ------ Elite version has a bigger radius on its explosion spell
 ------ Elite version also has double the mana capacity and double the mana regeneration, allowing it to attack more frequently
 
---- Unfinished Second Boss also uses the CURSE mechanic on its dash-attack.
+--- Finished the second boss
 
 --- Major Adjustments to enemy spawn
 ------ Normal enemies no longer respawn, only the one-hit enemy types (Bomber/Roller) continuously respawn in the middle of the wave
