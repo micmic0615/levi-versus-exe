@@ -1,0 +1,32 @@
+changelog - december 18, 2019
+
+--- General
+------ A Full potion now always spawns at the end of every arena
+------ Quarks are now stored after popping a pinyata, they will all spawn at the end of each arena
+------ Disabled portals when there are active quarks/full potions in the map
+------ Reduced heal cast point by around 30%.  Adjusted the heal amount from 75% -> 65%
+------ Equipping skills on used skill slots will now automatically drop the overwritten skill (old skill used to just be overwritten, effectively erasing them from the game)
+
+--- Added Skill level/upgrade system
+------ Skills can now be upgraded by stacking duplicate copies
+------ Skills levels increase damage/flinch output by 15%
+------ Skills level will always only increase by one per upgrade, regardless of the levels of the 2 items that are stacked
+
+--- Overhauled the  shop system
+------ Shops now allow you to choose what to buy from a pool of 3 semi-randomly determined skills
+------ Shops allow you to purchase a restock, resetting their inventory but also inflating their prices
+------ Shop prices scale with the player's level
+------ Upgrade Level of the the skills sold scale on the arena level
+
+--- Tweaked the arena rewards
+------ Removed the Full and Half Potion rewards
+------ Added a free blessing - "Recovery".  This automatically restores your Shield and Vitality the first time you stagger
+------ Added an expensive permanent blessing (this bonus is lost upon death unlike the Tachyon upgrade) that increases your flask charges by one
+------ Adjusted the prices across the board and also did some tweaks on the bonus values
+------ Treasure rewards (one free weapon/spell) will now always spawn a skill that is one upgrade level higher than what the shops sell
+
+--- Various weapon rebalances
+------ Slash now does a 3-hit combo (finishing attack does double damage but also puts the skill in a short cooldown, resulting in more or less the same DPS)
+------ Various tweaks to some weapon damage/flinch values
+
+--- Adjusted enemy spawn data across all stages
