@@ -1,0 +1,26 @@
+changelog - december 20, 2019
+
+--- General
+------ Reduced base flask charges from 2 -> 1
+------ Fixed bug that made the Spell Tachyon Shop not appear
+
+--- Added New Tachyon upgrades:
+------ Skill Up 1: causes all skills found to be 1 upgrade level higher
+------ Skill Up 2: causes all skills found to be 2 upgrade level higher (requires Skill Up 1 as a pre-requisite)
+
+--- Implemented room randomization system
+------ Clearing an arena for the first time will now unlock its randomized version and use them for the subsequent runs
+------ Randomization (for enemy spawns) is now done for arenas 1-1, 1-2 & 1-3.  
+------ Layout randomization system is currently done but not yet completed for any arena
+
+--- Tweaked the arena rewards
+------ All the left rewards are now blessings (temporary buffs that only apply to the next arena) and are free of charge
+------ All the middle rewards are now permanent bonuses that cost gold
+------ The right rewards will now always be Quark Recovery if you missed any quark.  But if you didn't miss any quarks, The right rewards become curses.
+------ Current left rewards are: attack, defense, tachyon gain, recovery
+------ Current middle rewards are: attack potion, defense potion, random greater weapon, random greater spell
+------ Current cursed rewards are: extra quark (enemies are tougher next room), upgrade all your weapons (healing is disabled next room), flask charge up (all shops in current room die)
+
+--- Various weapon rebalances
+------ Various tweaks to some weapon damage/flinch values
+------ Various tweaks to weapon upgrade scaling
