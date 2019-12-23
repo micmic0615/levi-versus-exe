@@ -5,6 +5,9 @@ changelog - december 20, 2019
 ------ Fixed bug that made the Spell Tachyon Shop not appear
 ------ Adjusted enemy stats/levels across the board
 ------ Adjusted the player stats
+------ Fixed pathfinding bug
+------ Chaser now doesn't cause shock but instead does a mini-vacuum (this is significantly easier to escape from)
+------ Auto-equipped PISTOL skill now also scales with the room's item level
 
 --- Added New Tachyon upgrades:
 ------ Skill Up 1: causes all skills found to be 1 upgrade level higher
