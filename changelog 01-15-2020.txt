@@ -1,0 +1,4 @@
+changelog - Jan 15, 2020
+
+--- Fixed Critical Bug where the game will sometimes crash when killing pinyatas
+--- Minor tweaks/improvements to placeholder UIs/tooltips for better player comprehension

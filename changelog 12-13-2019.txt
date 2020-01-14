@@ -1,4 +1,0 @@
-changelog - december 13, 2019
-
---- Improved unfinished second bossfight
------- This version is probably very close to how the fight should feel.  Just need to work on the boss phases and extra fine tuning.

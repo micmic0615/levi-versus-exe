@@ -1,3 +1,0 @@
-changelog - september 25, 2019
-
---- Replaced Player Sprite with particles and puppet-animated limbs
