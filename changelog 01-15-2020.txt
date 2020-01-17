@@ -13,3 +13,5 @@ changelog - Jan 15, 2020
 
 --- Boss phase up animations now do not grant invulnerability (grants 90% vit resistance and 95% shield resistance instead)
 --- Bosses are now uninterruptible when performing attacks/animations except by hard STUNS (FLASH/CULL) and STAGGER
+
+--- Significantly increased the duration of FRENZY (atkspeed bonus whenever you get tachyons), however FRENZY is now dispelled when the player takes damage
