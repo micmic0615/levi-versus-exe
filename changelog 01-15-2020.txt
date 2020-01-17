@@ -2,3 +2,5 @@ changelog - Jan 15, 2020
 
 --- Fixed Critical Bug where the game will sometimes crash when killing pinyatas
 --- Minor tweaks/improvements to placeholder UIs/tooltips for better player comprehension
+--- Fixed bug where enemy level modifier for BEEFY and PINYATA stacks multiplicatively, causing enormous enemy level boost
+--- Adjusted gold cost of all arena clear rewards
