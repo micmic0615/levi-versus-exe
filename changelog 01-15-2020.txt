@@ -3,4 +3,13 @@ changelog - Jan 15, 2020
 --- Fixed Critical Bug where the game will sometimes crash when killing pinyatas
 --- Minor tweaks/improvements to placeholder UIs/tooltips for better player comprehension
 --- Fixed bug where enemy level modifier for BEEFY and PINYATA stacks multiplicatively, causing enormous enemy level boost
---- Adjusted gold cost of all arena clear rewards
+--- Adjusted all gold costs (arena rewards and shops).  Gold cost now scales diminishingly with your level (higher level gold costs won't be as expensive as before)
+--- Minor tweaks to weapons/spells, particularly to weapons that apply the STUN debuff
+
+--- Reworked STUN mechanic (STUN is the freeze mechanic applied by FLASH/BLINK/etc that doesn't require the player to reduce the enemy shield to zero)
+------ Stunned enemies now wake up if they take damage after a 0.5 seconds buffer duration
+------ Enemies that have "waken up" prematurely due to being damaged are slowed for the remaining stun duration
+------ Increased stun durations across the board
+
+--- Boss phase up animations now do not grant invulnerability (grants 90% vit resistance and 95% shield resistance instead)
+--- Bosses are now uninterruptible when performing attacks/animations except by hard STUNS (FLASH/CULL) and STAGGER
