@@ -1,0 +1,5 @@
+changelog - Jan 21, 2020
+
+--- Added a 10% chance for non-one-hit enemies to drop a minor healing potion or a weapon
+--- Nerfed healing (50% of missing health to 35% of missing health) from Arena Reward - Stagger Recovery
+--- Minor tweaks to weapons/spells damage/radius values
