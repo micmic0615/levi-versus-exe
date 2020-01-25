@@ -1,0 +1,13 @@
+changelog - Jan 25, 2020
+
+--- Rooms now randomize every wave
+--- Enemies now have a 9% chance to drop either a gold coin, a lesser potion or a skill on death
+--- Minor tweaks to weapons/spells damage/radius values
+--- Minor tweaks to how PING, BLIZZARD, CHAIN, ACID, STORM & REAVER animates/feels
+--- Minor tweaks to skill gold costs 
+--- Minor tweaks to arena clear rewards bonus
+
+--- Reworked skill upgrade system
+------ upgrading now requires multiple top-ups before the skill level-ups.
+------ the higher the skill level, the higher the top-up requirement.
+------ increased skill upgrade bonus damage from 10% -> 20% (to compensate for how hard it is to upgrade now)
