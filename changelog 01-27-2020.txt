@@ -1,0 +1,5 @@
+changelog - Jan 27, 2020
+
+--- Rooms now randomize is now every 2 waves
+--- Added a short tutorial teaching manual aim and curse mechanics after beating the first boss
+--- Arena rewards: Increased attack and defense potion effect from 10/15 -> 15/20. Reduced price slightly. Potions now cannot be used until you use all of the available quarks.
