@@ -1,0 +1,7 @@
+changelog - Feb 24, 2020
+
+--- Improved UI (applied jordan's latest PSD and added tooltips)
+--- Various skill tweaks/rebalances (mostly changes with spell cooldowns and upgrades)
+
+--- Reworked how bonus mana regen works
+--- There are now 4 mana charges, increased mana cooldown from 9 -> 12 seconds.
