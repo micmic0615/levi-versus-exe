@@ -1,0 +1,6 @@
+changelog - March 04, 2020
+
+--- Buffed starting level stat bonuses
+--- Tweaked Saber AI
+--- Reduced the stats of all elite enemies
+--- Reduced skill upgrade requirements 
