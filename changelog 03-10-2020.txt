@@ -27,3 +27,5 @@ changelog - March 10, 2020
 
 --- Increased camera zoom-out, making more stuff visible
 ------ Using manual aim now zooms-out the camera even more
+
+--- Reverted previous reduction to skill upgrade requirements 
