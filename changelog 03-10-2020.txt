@@ -1,0 +1,21 @@
+changelog - March 10, 2020
+
+--- Adjustments to sprint
+----- Reduced bonus speed from +250% to +200%
+----- Using skills now interrupt sprint
+----- Hitting walls now also interrupt sprint
+
+--- Reduced Bullet "collision health" of the following weapons:
+----- Pistol, Ping, Overload, Dart
+
+--- Reworked Pierce Ignore formula of Snipe (applied an exponent so lower distances will yield a lower Pierce ignore while higher distances are pretty much unaffected)
+--- Reduced Snipe shield damage
+
+--- Vacuum now applies SLOW instead of FROST
+
+--- Saber now stuns itself when it's attacks hit walls
+
+--- Reduced Tracking of Betelgeuse' bullets
+
+--- Increased camera zoom-out, making more stuff visible
+------ Using manual aim now zooms-out the camera even more
