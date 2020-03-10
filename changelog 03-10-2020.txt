@@ -2,8 +2,12 @@ changelog - March 10, 2020
 
 --- Adjustments to sprint
 ----- Reduced bonus speed from +250% to +200%
------ Using skills now interrupt sprint
+----- Using skills now briefly disable sprint (unless frenzied)
 ----- Hitting walls now also interrupt sprint
+
+--- Player Shield now regenerate over 3 seconds instead of over 2 seconds at max Vitality
+----- Player Shield regeneration is now disabled for 2 seconds after taking damage (used to be disabled for 1.35 secs)
+----- Enemy Shield regeneration is now disabled for 1 second after taking damage (used to be disabled for 0.5 secs)
 
 --- Reduced Bullet "collision health" of the following weapons:
 ----- Pistol, Ping, Overload, Dart
@@ -15,7 +19,11 @@ changelog - March 10, 2020
 
 --- Saber now stuns itself when it's attacks hit walls
 
---- Reduced Tracking of Betelgeuse' bullets
+--- Tweaks to Betelguese boss
+------ Reduced Tracking of Betelgeuse' bullets
+------ Increased Betelgeuse' stats by a bit
+------ Phantom Bombs now appear starting at phase 2 (with 1.5x cooldown)
+------ Basic sword attack now applies SLOW for 0.75 secs
 
 --- Increased camera zoom-out, making more stuff visible
 ------ Using manual aim now zooms-out the camera even more
