@@ -1,0 +1,8 @@
+changelog - March 15, 2020
+
+--- Full controller support added
+------ Controller buttons sprites to be added later
+
+--- Reworked Tachyon upgrade UI
+
+--- Fixed crash bug when swapping out skills that are in cooldown
