@@ -1,0 +1,5 @@
+changelog - April 1, 2020
+
+--- Various weapon/spell tweaks (particularly on BLIZZARD)
+--- Adjustments to enemy type Chaser
+--- Adjustments to 2nd boss - Phantasm of a Dying Star
